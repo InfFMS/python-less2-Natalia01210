@@ -12,6 +12,6 @@ else:
     elif(a2 == b1):
         print(a2)
     elif(b2 <= b1):
-        print(b2, b1)
-    else:
         print(a2, b2)
+    else:
+        print(a2, b1)
